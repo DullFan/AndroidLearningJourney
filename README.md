@@ -8,4 +8,4 @@
 
 - [注解的基本使用](./Blog/注解/注解 3754c1f218474b69ac8425aced366de1.md)
 - [Gradle 的基本使用](./gradle/gradle的基本使用.md)
-- [Gradle 的基本使用](./Blog/zhujie/zhujie 3754c1f218474b69ac8425aced366de1.md)
+- [Gradle 的基本使用](./Blog/zhujie/zhujie3754c1f218474b69ac8425aced366de1.md)
