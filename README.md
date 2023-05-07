@@ -2,6 +2,8 @@
 
 自学Android期间记录的笔记，有什么问题可以提Issues。
 
+由于笔记都是记在Notion中，导出MarkDown的时候可能格式会有问题。
+
 ### 大纲
 
 **Java篇** 
